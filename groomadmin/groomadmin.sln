@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "groomadmin", "groomadmin.csproj", "{751DFAE4-7E84-4007-A97E-AE07E3B279DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{751DFAE4-7E84-4007-A97E-AE07E3B279DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{751DFAE4-7E84-4007-A97E-AE07E3B279DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{751DFAE4-7E84-4007-A97E-AE07E3B279DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{751DFAE4-7E84-4007-A97E-AE07E3B279DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9058C8C-DCDE-466D-AD8F-04AA172BDF88}
+	EndGlobalSection
+EndGlobal
